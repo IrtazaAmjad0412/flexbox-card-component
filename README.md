@@ -1,1 +1,1 @@
-Peer Programming Exercise focused n developing your HTML5 and CSS understanding.
+Peer Programming Exercise focused on developing your HTML5 and CSS understanding.
